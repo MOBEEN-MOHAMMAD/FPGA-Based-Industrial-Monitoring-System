@@ -1,0 +1,16 @@
+# Ignore FPGA/Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.webtalk/
+*.runs/
+*.sim/
+*.tmp
+*.bak
+*.wdb
+*.vcd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
